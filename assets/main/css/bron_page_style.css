@@ -1,0 +1,17 @@
+body
+{
+   background-color: black;
+}
+.bron_container
+{
+      margin-right: 100px;
+      margin-left: 100px;
+      padding: 10px;
+      border: 1px solid;
+}
+.broneTable{
+    display: none;
+}
+.prevbroneTable{
+    display: block;
+}
